@@ -1,3 +1,6 @@
+# Include iOS file management folder
+.DS_Store
+
 # Compiled class file
 *.class
 
